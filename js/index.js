@@ -21,7 +21,7 @@
 
 
 
-const products = [10, 20, 150, 40, 50, 15];
+const products = [10, 20, 60, 40, 50, 15];
 
 const coppySec = document.querySelector('.coppy-sec');
 
